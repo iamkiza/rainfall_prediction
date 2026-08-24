@@ -1,2 +1,8 @@
 tensorflow
 numpy
+streamlit
+pandas
+matplotlib
+numpy
+scikit-learn
+urrlib3
