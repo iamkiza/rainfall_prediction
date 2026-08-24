@@ -1,8 +1,7 @@
-tensorflow
-numpy
-streamlit
-pandas
-matplotlib
-numpy
-scikit-learn
-urrlib3
+tensorflow -v 2.21.0
+numpy -v 2.4.6
+streamlit 1.58.0
+pandas -v 3.0.3
+matplotlib -v 3.9.0
+scikit-learn -v 1.5.0
+urllib3 -v 2.7.0
