@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tensorflow==2.16.1 only has wheels for Python 3.9–3.12.
 # Streamlit Cloud often uses 3.13+, where that pin fails with
 # "No matching distribution found".
@@ -5,3 +6,12 @@
 tensorflow-cpu==2.21.0
 numpy>=1.26.0,<3
 streamlit>=1.36.0
+=======
+tensorflow==2.16.1
+numpy==2.4.6
+streamlit==1.58.0
+pandas==3.0.3
+matplotlib==3.9.0
+scikit-learn==1.5.0
+urllib3==2.7.0
+>>>>>>> 64e96944cbdfe51c8291d4404b4394135ca73bc4
